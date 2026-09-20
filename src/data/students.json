@@ -1,0 +1,26 @@
+{
+  "id": "usr-student-01",
+  "studentId": "STU2026-0142",
+  "name": "Aravind Kumar",
+  "email": "student@hostelhub.demo",
+  "phone": "+91 98450 23145",
+  "avatar": "/avatars/aravind_kumar.jpg",
+  "course": "B.Tech AI & DS",
+  "year": "3rd Year",
+  "bloodGroup": "O+ Positive",
+  "roomNumber": "B-204",
+  "block": "Block B",
+  "floor": "2nd Floor",
+  "bedNumber": "Bed 1",
+  "attendancePercentage": 92,
+  "guardian": {
+    "name": "Venkatesh Kumar",
+    "relation": "Father",
+    "phone": "+91 98450 11223"
+  },
+  "emergencyContact": {
+    "name": "S. Rajesh",
+    "relation": "Local Guardian / Uncle",
+    "phone": "+91 98201 44556"
+  }
+}

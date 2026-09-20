@@ -1,0 +1,38 @@
+[
+  {
+    "id": "notif-01",
+    "title": "Maintenance Request Assigned",
+    "message": "Maintenance request MH-1024 (Ceiling Fan Regulator) has been assigned to Technician Ramesh.",
+    "timestamp": "2026-09-18T11:00:00Z",
+    "type": "maintenance",
+    "isRead": false,
+    "link": "/maintenance"
+  },
+  {
+    "id": "notif-02",
+    "title": "Leave Request Approved",
+    "message": "Your leave request LH-2026 for Home Visit (Sep 22 - Sep 25) has been approved by Chief Warden.",
+    "timestamp": "2026-09-17T15:30:00Z",
+    "type": "leave",
+    "isRead": false,
+    "link": "/leaves"
+  },
+  {
+    "id": "notif-03",
+    "title": "Dinner Menu Updated",
+    "message": "Today's dinner special includes Shahi Paneer Curry & Warm Gulab Jamun.",
+    "timestamp": "2026-09-19T06:00:00Z",
+    "type": "mess",
+    "isRead": false,
+    "link": "/mess"
+  },
+  {
+    "id": "notif-04",
+    "title": "New Notice Published",
+    "message": "Water supply maintenance scheduled tomorrow for Block B from 09:00 AM to 01:00 PM.",
+    "timestamp": "2026-09-19T08:00:00Z",
+    "type": "announcement",
+    "isRead": true,
+    "link": "/announcements"
+  }
+]

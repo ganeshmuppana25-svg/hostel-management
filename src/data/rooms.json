@@ -1,0 +1,46 @@
+{
+  "roomNumber": "B-204",
+  "block": "Block B",
+  "floor": "2nd Floor",
+  "type": "4 Sharing Non-AC Premium",
+  "totalBeds": 4,
+  "occupiedBeds": 3,
+  "amenities": [
+    "High-speed Wi-Fi 6",
+    "Individual Study Desks & Lamps",
+    "Attached Washroom with Geyser",
+    "Balcony Garden Facing",
+    "Personal Steel Wardrobes",
+    "Biometric Room Access"
+  ],
+  "beds": [
+    {
+      "bedNumber": 1,
+      "status": "occupied",
+      "occupantName": "Aravind Kumar",
+      "studentId": "STU2026-0142",
+      "phone": "+91 98450 23145"
+    },
+    {
+      "bedNumber": 2,
+      "status": "occupied",
+      "occupantName": "Rahul Sharma",
+      "studentId": "STU2026-0098",
+      "phone": "+91 97110 54321"
+    },
+    {
+      "bedNumber": 3,
+      "status": "occupied",
+      "occupantName": "Sai Krishna",
+      "studentId": "STU2026-0177",
+      "phone": "+91 96500 88776"
+    },
+    {
+      "bedNumber": 4,
+      "status": "available",
+      "occupantName": "Empty Bed",
+      "studentId": "",
+      "phone": ""
+    }
+  ]
+}

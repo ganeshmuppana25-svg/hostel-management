@@ -1,0 +1,52 @@
+[
+  {
+    "id": "gate-101",
+    "type": "student_exit",
+    "personName": "Aravind Kumar",
+    "identifier": "STU2026-0142",
+    "roomNumber": "B-204",
+    "timestamp": "2026-09-19T08:31:00.000Z",
+    "guardName": "Officer S. Verma",
+    "remarks": "Academic lab visit to Innovation Center"
+  },
+  {
+    "id": "gate-102",
+    "type": "visitor_entry",
+    "personName": "Ramesh Deshmukh",
+    "identifier": "VP-4821",
+    "roomNumber": "A-101",
+    "timestamp": "2026-09-19T10:14:00.000Z",
+    "guardName": "Guard M. Khan",
+    "remarks": "Parent visit verified via digital QR pass"
+  },
+  {
+    "id": "gate-103",
+    "type": "visitor_exit",
+    "personName": "Ramesh Deshmukh",
+    "identifier": "VP-4821",
+    "roomNumber": "A-101",
+    "timestamp": "2026-09-19T11:42:00.000Z",
+    "guardName": "Officer S. Verma",
+    "remarks": "Check-out completed, pass surrendered"
+  },
+  {
+    "id": "gate-104",
+    "type": "student_entry",
+    "personName": "Aravind Kumar",
+    "identifier": "STU2026-0142",
+    "roomNumber": "B-204",
+    "timestamp": "2026-09-19T13:20:00.000Z",
+    "guardName": "Officer S. Verma",
+    "remarks": "Biometric entry confirmed at Gate 1"
+  },
+  {
+    "id": "gate-105",
+    "type": "student_exit",
+    "personName": "Pranav Patel",
+    "identifier": "STU2026-0021",
+    "roomNumber": "A-102",
+    "timestamp": "2026-09-19T14:10:00.000Z",
+    "guardName": "Guard M. Khan",
+    "remarks": "Approved Weekend Home Visit pass"
+  }
+]

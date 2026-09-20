@@ -1,0 +1,115 @@
+{
+  "todayMeals": [
+    {
+      "id": "meal-1",
+      "name": "Breakfast",
+      "timing": "07:30 AM – 09:15 AM",
+      "items": ["Steamed Idli (4 pcs)", "Piping Hot Drumstick Sambar", "Fresh Coconut & Tomato Chutneys", "Filter Coffee / Tea"],
+      "isVeg": true,
+      "calories": "380 kcal",
+      "currentRating": 4.2,
+      "totalRatings": 142
+    },
+    {
+      "id": "meal-2",
+      "name": "Lunch",
+      "timing": "12:30 PM – 02:15 PM",
+      "items": ["Steamed Sona Masoori Rice", "Yellow Moong Dal Tadka", "Spicy Chettinad Chicken Curry / Paneer Butter Masala", "Carrot Beans Poriyal", "Thick Curd & Pickle", "Crispy Papad"],
+      "isVeg": false,
+      "calories": "680 kcal",
+      "currentRating": 3.9,
+      "totalRatings": 188
+    },
+    {
+      "id": "meal-3",
+      "name": "Snacks",
+      "timing": "05:00 PM – 06:15 PM",
+      "items": ["Special Ginger Masala Tea", "Butter Biscuits & Onion Pakoda"],
+      "isVeg": true,
+      "calories": "210 kcal",
+      "currentRating": 4.1,
+      "totalRatings": 96
+    },
+    {
+      "id": "meal-4",
+      "name": "Dinner",
+      "timing": "07:45 PM – 09:30 PM",
+      "items": ["Warm Phulka Rotis (with Ghee)", "Shahi Paneer Curry", "Jeera Rice", "Dal Makhani", "Fresh Cucumber & Beetroot Salad", "Gulab Jamun"],
+      "isVeg": true,
+      "calories": "620 kcal",
+      "currentRating": 4.4,
+      "totalRatings": 165
+    }
+  ],
+  "weeklyMenu": [
+    {
+      "day": "Monday",
+      "breakfast": ["Poha with Peanuts & Sev", "Boiled Eggs / Sprouts", "Mint Chutney", "Tea & Coffee"],
+      "lunch": ["Jeera Rice", "Rajma Masala", "Aloo Gobi Matar", "Curd", "Roti", "Papad"],
+      "snacks": ["Masala Tea", "Veg Cutlets with Sauce"],
+      "dinner": ["Tawa Paratha", "Mixed Veg Korma", "Steamed Rice", "Dal Tadka", "Kheer"]
+    },
+    {
+      "day": "Tuesday",
+      "breakfast": ["Masala Dosa", "Sambar", "Coconut Chutney", "Tea & Milk"],
+      "lunch": ["Lemon Rice", "Plain Rice", "Dal Fry", "Bhindi Do Pyaza", "Curd"],
+      "snacks": ["Cardamom Tea", "Samosa with Sweet Chutney"],
+      "dinner": ["Chapati", "Butter Chicken / Kadai Paneer", "Veg Pulao", "Dal Tadka", "Ice Cream"]
+    },
+    {
+      "day": "Wednesday",
+      "breakfast": ["Aloo Paratha with Butter", "Curd & Pickle", "Tea & Coffee"],
+      "lunch": ["Steamed Rice", "Sambhar", "Kootu", "Chicken Gravy / Soya Chunk Curry", "Rasam", "Papad"],
+      "snacks": ["Tea / Cold Coffee", "Bread Pakoda"],
+      "dinner": ["Naan / Roti", "Dal Makhani", "Mushroom Matar Masala", "Jeera Rice", "Sewai Kheer"]
+    },
+    {
+      "day": "Thursday",
+      "breakfast": ["Upma & Kesari Bath", "Coconut Chutney", "Filter Coffee"],
+      "lunch": ["Rice", "Palak Dal", "Baingan Bharta", "Roti", "Buttermilk"],
+      "snacks": ["Tea", "Onion & Corn Fritters"],
+      "dinner": ["Phulka Rotis", "Dum Aloo Kashmiri", "Peas Pulao", "Yellow Dal", "Fruit Salad"]
+    },
+    {
+      "day": "Friday",
+      "breakfast": ["Idli, Medu Vada", "Sambar & Chutney", "Tea / Bournvita"],
+      "lunch": ["Hyderabadi Veg Biryani / Egg Curry", "Mirchi Ka Salan", "Raita", "Rice & Rasam"],
+      "snacks": ["Ginger Tea", "Sweet Corn Chaat"],
+      "dinner": ["Tandoori Roti", "Malai Kofta", "Steamed Rice", "Dal Fry", "Rasgulla"]
+    },
+    {
+      "day": "Saturday",
+      "breakfast": ["Puri Bhaji (Aloo Curry)", "Sooji Halwa", "Tea & Milk"],
+      "lunch": ["Curd Rice", "Tomato Rice", "Potato Fry", "Dal Tadka", "Appalam"],
+      "snacks": ["Lemon Tea / Coffee", "Biscuits & Murukku"],
+      "dinner": ["Chapati", "Chicken Curry / Paneer Tikka Masala", "Fried Rice", "Manchurian Gravy"]
+    },
+    {
+      "day": "Sunday",
+      "breakfast": ["Chole Bhature", "Pickle & Onion", "Sweet Lassi"],
+      "lunch": ["Special Sunday Dum Biryani (Chicken/Veg)", "Boiled Egg", "Onion Raita", "Brinjal Curry"],
+      "snacks": ["Filter Coffee / Tea", "Puffs (Veg/Egg)"],
+      "dinner": ["Soft Rotis", "Dal Tadka", "Paneer Lababdar", "Jeera Pulao", "Moong Dal Halwa"]
+    }
+  ],
+  "suggestions": [
+    {
+      "id": "sug-1",
+      "studentName": "Rahul Sharma",
+      "dishName": "Chole Bhature on Wednesday Breakfast",
+      "mealType": "Breakfast",
+      "description": "Currently we only get this on Sundays. Mid-week would be energizing during exam weeks!",
+      "votes": 28,
+      "submittedAt": "2026-09-15T12:00:00Z"
+    },
+    {
+      "id": "sug-2",
+      "studentName": "Sai Krishna",
+      "dishName": "Filter Coffee Vending Machine for Late Night",
+      "mealType": "Snacks",
+      "description": "A self-serve hot brew machine near mess entrance during 9 PM - 11 PM study hours.",
+      "votes": 45,
+      "submittedAt": "2026-09-16T18:30:00Z"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "LH-2026",
+    "studentId": "STU2026-0142",
+    "studentName": "Aravind Kumar",
+    "roomNumber": "B-204",
+    "fromDate": "2026-09-22",
+    "toDate": "2026-09-25",
+    "leaveType": "Home Visit",
+    "destination": "Coimbatore, Tamil Nadu",
+    "reason": "Attending elder brother's wedding reception ceremony with family.",
+    "emergencyContact": "+91 98450 11223",
+    "status": "Approved",
+    "appliedAt": "2026-09-17T10:00:00Z",
+    "reviewedAt": "2026-09-17T15:30:00Z",
+    "reviewedBy": "Dr. K. Ramanathan (Chief Warden)",
+    "wardenRemarks": "Parent confirmation verified via telephonic call. Out-pass issued.",
+    "passCode": "GP-2026-9812"
+  },
+  {
+    "id": "LH-2015",
+    "studentId": "STU2026-0142",
+    "studentName": "Aravind Kumar",
+    "roomNumber": "B-204",
+    "fromDate": "2026-09-05",
+    "toDate": "2026-09-06",
+    "leaveType": "Medical",
+    "destination": "City Multi-Specialty Hospital, Metro City",
+    "reason": "Ophthalmology clinic eye appointment and checkup.",
+    "emergencyContact": "+91 98201 44556",
+    "status": "Approved",
+    "appliedAt": "2026-09-03T08:30:00Z",
+    "reviewedAt": "2026-09-03T11:00:00Z",
+    "reviewedBy": "Dr. K. Ramanathan (Chief Warden)",
+    "wardenRemarks": "Medical certificate to be presented upon gate reentry.",
+    "passCode": "GP-2015-4421"
+  }
+]

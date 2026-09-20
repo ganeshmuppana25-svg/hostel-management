@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ann-01",
+    "title": "Scheduled Overhead Water Tank Cleaning in Block B",
+    "description": "Routine quarterly cleaning and UV chlorination of overhead tanks for Block B will take place tomorrow between 09:00 AM and 01:00 PM. Please store sufficient drinking water in advance. Ground floor utility points will remain operational.",
+    "date": "2026-09-19",
+    "category": "Maintenance",
+    "priority": "High",
+    "author": "Estate & Maintenance Office",
+    "isPinned": true,
+    "isRead": false
+  },
+  {
+    "id": "ann-02",
+    "title": "Annual Hostel Cultural Night 'SPARK 2026' Registrations Live",
+    "description": "Auditions for music band, solo dance, theater, and stand-up comedy are officially underway! Stage setup will begin at Central Amphitheater. Cash prizes worth ₹50,000 for winning teams. Submit entries before Sept 25.",
+    "date": "2026-09-18",
+    "category": "Events",
+    "priority": "Normal",
+    "author": "Hostel Cultural Committee",
+    "isPinned": true,
+    "isRead": false
+  },
+  {
+    "id": "ann-03",
+    "title": "Mess Timing Revision for Sunday Brunch & Special Feast",
+    "description": "Due to university sports league matches, Sunday breakfast timing is extended up to 10:00 AM, followed by special feast lunch from 01:00 PM to 03:00 PM. Dessert counter will feature handmade Kulfi.",
+    "date": "2026-09-17",
+    "category": "Mess",
+    "priority": "Normal",
+    "author": "Student Mess Secretary",
+    "isPinned": false,
+    "isRead": true
+  },
+  {
+    "id": "ann-04",
+    "title": "Mandatory Biometric ID Card Verification at South Gate",
+    "description": "All resident students must ensure their RFID biometric smart badges are scanned at entry and exit terminals. Entry after 10:30 PM requires warden pre-approved late entry slips.",
+    "date": "2026-09-15",
+    "category": "Emergency",
+    "priority": "Urgent",
+    "author": "Chief Security Directorate",
+    "isPinned": false,
+    "isRead": true
+  },
+  {
+    "id": "ann-05",
+    "title": "High-Speed Wi-Fi 6 Router Firmware Upgrade",
+    "description": "Block A and Block B network switches are undergoing gigabit optical fiber link switchover. Network latency will be reduced by 40% across all hostel floors.",
+    "date": "2026-09-12",
+    "category": "General",
+    "priority": "Normal",
+    "author": "Campus IT Systems",
+    "isPinned": false,
+    "isRead": true
+  }
+]

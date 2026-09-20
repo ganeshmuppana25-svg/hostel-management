@@ -1,0 +1,129 @@
+[
+  {
+    "roomNumber": "A-101",
+    "block": "Block A",
+    "floor": 1,
+    "type": "4-Sharing",
+    "totalBeds": 4,
+    "occupiedBeds": 4,
+    "isUnderMaintenance": false,
+    "beds": [
+      { "bedNumber": 1, "status": "occupied", "occupantName": "Rohan Deshmukh", "studentId": "STU2026-0012", "course": "B.Tech CSE", "year": "2nd Year", "phone": "+91 98111 22334" },
+      { "bedNumber": 2, "status": "occupied", "occupantName": "Aditya Verma", "studentId": "STU2026-0013", "course": "B.Tech CSE", "year": "2nd Year", "phone": "+91 98111 22335" },
+      { "bedNumber": 3, "status": "occupied", "occupantName": "Gautam Nair", "studentId": "STU2026-0014", "course": "B.Tech ECE", "year": "2nd Year", "phone": "+91 98111 22336" },
+      { "bedNumber": 4, "status": "occupied", "occupantName": "Kunal Sen", "studentId": "STU2026-0015", "course": "B.Tech CSE", "year": "2nd Year", "phone": "+91 98111 22337" }
+    ]
+  },
+  {
+    "roomNumber": "A-102",
+    "block": "Block A",
+    "floor": 1,
+    "type": "4-Sharing",
+    "totalBeds": 4,
+    "occupiedBeds": 3,
+    "isUnderMaintenance": false,
+    "beds": [
+      { "bedNumber": 1, "status": "occupied", "occupantName": "Pranav Patel", "studentId": "STU2026-0021", "course": "B.Tech IT", "year": "3rd Year", "phone": "+91 98222 11001" },
+      { "bedNumber": 2, "status": "occupied", "occupantName": "Tarun Joshi", "studentId": "STU2026-0022", "course": "B.Tech IT", "year": "3rd Year", "phone": "+91 98222 11002" },
+      { "bedNumber": 3, "status": "available" },
+      { "bedNumber": 4, "status": "occupied", "occupantName": "Devansh Roy", "studentId": "STU2026-0024", "course": "B.Tech Mechanical", "year": "3rd Year", "phone": "+91 98222 11004" }
+    ]
+  },
+  {
+    "roomNumber": "A-103",
+    "block": "Block A",
+    "floor": 1,
+    "type": "4-Sharing",
+    "totalBeds": 4,
+    "occupiedBeds": 2,
+    "isUnderMaintenance": false,
+    "beds": [
+      { "bedNumber": 1, "status": "occupied", "occupantName": "Mayank Joshi", "studentId": "STU2026-0031", "course": "B.Tech Civil", "year": "1st Year", "phone": "+91 98333 44551" },
+      { "bedNumber": 2, "status": "occupied", "occupantName": "Sourabh Gupta", "studentId": "STU2026-0032", "course": "B.Tech Civil", "year": "1st Year", "phone": "+91 98333 44552" },
+      { "bedNumber": 3, "status": "maintenance" },
+      { "bedNumber": 4, "status": "available" }
+    ]
+  },
+  {
+    "roomNumber": "B-201",
+    "block": "Block B",
+    "floor": 2,
+    "type": "2-Sharing",
+    "totalBeds": 2,
+    "occupiedBeds": 2,
+    "isUnderMaintenance": false,
+    "beds": [
+      { "bedNumber": 1, "status": "occupied", "occupantName": "Varun Chakravarthy", "studentId": "STU2026-0101", "course": "B.Tech AI & DS", "year": "3rd Year", "phone": "+91 98444 55661" },
+      { "bedNumber": 2, "status": "occupied", "occupantName": "Nikhil Agarwal", "studentId": "STU2026-0102", "course": "B.Tech AI & DS", "year": "3rd Year", "phone": "+91 98444 55662" }
+    ]
+  },
+  {
+    "roomNumber": "B-204",
+    "block": "Block B",
+    "floor": 2,
+    "type": "3-Sharing",
+    "totalBeds": 3,
+    "occupiedBeds": 3,
+    "isUnderMaintenance": false,
+    "beds": [
+      { "bedNumber": 1, "status": "occupied", "occupantName": "Aravind Kumar", "studentId": "STU2026-0142", "course": "B.Tech AI & DS", "year": "3rd Year", "phone": "+91 98450 23145" },
+      { "bedNumber": 2, "status": "occupied", "occupantName": "Karthik Raja", "studentId": "STU2026-0143", "course": "B.Tech AI & DS", "year": "3rd Year", "phone": "+91 98450 23146" },
+      { "bedNumber": 3, "status": "occupied", "occupantName": "Siddharth Menon", "studentId": "STU2026-0144", "course": "B.Tech CSE", "year": "3rd Year", "phone": "+91 98450 23147" }
+    ]
+  },
+  {
+    "roomNumber": "B-205",
+    "block": "Block B",
+    "floor": 2,
+    "type": "3-Sharing",
+    "totalBeds": 3,
+    "occupiedBeds": 1,
+    "isUnderMaintenance": false,
+    "beds": [
+      { "bedNumber": 1, "status": "occupied", "occupantName": "Abhinav Bindra", "studentId": "STU2026-0151", "course": "B.Tech AI & DS", "year": "3rd Year", "phone": "+91 98450 99881" },
+      { "bedNumber": 2, "status": "available" },
+      { "bedNumber": 3, "status": "available" }
+    ]
+  },
+  {
+    "roomNumber": "C-301",
+    "block": "Block C",
+    "floor": 3,
+    "type": "2-Sharing",
+    "totalBeds": 2,
+    "occupiedBeds": 1,
+    "isUnderMaintenance": false,
+    "beds": [
+      { "bedNumber": 1, "status": "occupied", "occupantName": "Chirag Singhal", "studentId": "STU2026-0201", "course": "B.Tech ECE", "year": "4th Year", "phone": "+91 98555 66771" },
+      { "bedNumber": 2, "status": "available" }
+    ]
+  },
+  {
+    "roomNumber": "C-302",
+    "block": "Block C",
+    "floor": 3,
+    "type": "2-Sharing",
+    "totalBeds": 2,
+    "occupiedBeds": 0,
+    "isUnderMaintenance": true,
+    "beds": [
+      { "bedNumber": 1, "status": "maintenance" },
+      { "bedNumber": 2, "status": "maintenance" }
+    ]
+  },
+  {
+    "roomNumber": "D-101",
+    "block": "Block D",
+    "floor": 1,
+    "type": "4-Sharing",
+    "totalBeds": 4,
+    "occupiedBeds": 2,
+    "isUnderMaintenance": false,
+    "beds": [
+      { "bedNumber": 1, "status": "occupied", "occupantName": "Ananya Sharma", "studentId": "STU2026-0301", "course": "B.Tech Biotech", "year": "1st Year", "phone": "+91 98666 77881" },
+      { "bedNumber": 2, "status": "occupied", "occupantName": "Pooja Hegde", "studentId": "STU2026-0302", "course": "B.Tech Biotech", "year": "1st Year", "phone": "+91 98666 77882" },
+      { "bedNumber": 3, "status": "available" },
+      { "bedNumber": 4, "status": "available" }
+    ]
+  }
+]

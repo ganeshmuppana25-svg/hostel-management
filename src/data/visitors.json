@@ -1,0 +1,50 @@
+[
+  {
+    "id": "vis-2026-001",
+    "visitorName": "Ramesh Deshmukh",
+    "relation": "Father",
+    "purpose": "Semester Fee discussion & baggage delivery",
+    "visitDate": "2026-09-19",
+    "visitTime": "10:00 AM",
+    "studentId": "STU2026-0012",
+    "studentName": "Rohan Deshmukh",
+    "roomNumber": "A-101",
+    "phone": "+91 94220 11223",
+    "status": "Completed",
+    "passCode": "VP-4821",
+    "createdAt": "2026-09-18T16:20:00.000Z",
+    "checkedInAt": "2026-09-19T10:14:00.000Z",
+    "checkedOutAt": "2026-09-19T11:42:00.000Z"
+  },
+  {
+    "id": "vis-2026-002",
+    "visitorName": "Sunita Verma",
+    "relation": "Mother",
+    "purpose": "Health checkup and weekend food care",
+    "visitDate": "2026-09-19",
+    "visitTime": "03:30 PM",
+    "studentId": "STU2026-0142",
+    "studentName": "Aravind Kumar",
+    "roomNumber": "B-204",
+    "phone": "+91 98450 99001",
+    "status": "Inside",
+    "passCode": "VP-9102",
+    "createdAt": "2026-09-19T09:00:00.000Z",
+    "checkedInAt": "2026-09-19T15:15:00.000Z"
+  },
+  {
+    "id": "vis-2026-003",
+    "visitorName": "Harish Patel",
+    "relation": "Uncle / Local Guardian",
+    "purpose": "Academic document submission",
+    "visitDate": "2026-09-20",
+    "visitTime": "11:00 AM",
+    "studentId": "STU2026-0021",
+    "studentName": "Pranav Patel",
+    "roomNumber": "A-102",
+    "phone": "+91 98222 44332",
+    "status": "Approved",
+    "passCode": "VP-3341",
+    "createdAt": "2026-09-19T11:30:00.000Z"
+  }
+]

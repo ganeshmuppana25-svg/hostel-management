@@ -1,0 +1,93 @@
+[
+  {
+    "id": "usr-student-01",
+    "email": "student@hostelhub.demo",
+    "password": "student123",
+    "name": "Aravind Kumar",
+    "role": "student",
+    "avatar": "/avatars/aravind_kumar.jpg",
+    "studentId": "STU2026-0142",
+    "roomNumber": "B-204",
+    "block": "Block B",
+    "phone": "+91 98450 23145",
+    "department": "Department of Artificial Intelligence & Data Science",
+    "designation": "Resident Student (3rd Year)"
+  },
+  {
+    "id": "usr-warden-01",
+    "email": "warden@hostelhub.demo",
+    "password": "warden123",
+    "name": "Dr. K. Ramanathan",
+    "role": "warden",
+    "avatar": "/avatars/dr_ramanathan.jpg",
+    "staffId": "WRD-2026-004",
+    "designation": "Chief Hostel Warden & Associate Professor",
+    "department": "Campus Residential Welfare & Student Affairs",
+    "block": "Block B & Block C",
+    "officeLocation": "Warden Secretariat, Ground Floor, Room W-101",
+    "dutyHours": "09:00 AM – 06:30 PM (24/7 On-Call Emergency)",
+    "phone": "+91 94441 87654",
+    "emergencyContact": {
+      "name": "Prof. S. Natarajan",
+      "relation": "Deputy Warden (Boys Hostels)",
+      "phone": "+91 94441 22334"
+    }
+  },
+  {
+    "id": "usr-security-01",
+    "email": "security@hostelhub.demo",
+    "password": "security123",
+    "name": "Officer S. Verma",
+    "role": "security",
+    "avatar": "/avatars/officer_verma.jpg",
+    "staffId": "SEC-G1-089",
+    "designation": "Chief Security Supervisor",
+    "department": "Campus Safety, Vigilance & Turnstile Access Control",
+    "checkpoint": "Main Campus Gate 1 & Turnstile Post",
+    "shift": "General Operations Day Shift (07:00 AM – 07:00 PM)",
+    "phone": "+91 98765 43210",
+    "emergencyContact": {
+      "name": "Control Room Dispatch",
+      "relation": "Central Campus Vigilance HQ",
+      "phone": "+91 80000 11223"
+    }
+  },
+  {
+    "id": "usr-admin-01",
+    "email": "admin@hostelhub.demo",
+    "password": "admin123",
+    "name": "Prof. Meera Sen",
+    "role": "admin",
+    "avatar": "/avatars/prof_meera_sen.jpg",
+    "staffId": "ADM-DIR-001",
+    "designation": "Director of Student Welfare & Campus Administration",
+    "department": "Directorate of Student Affairs & Institutional Facilities",
+    "officeLocation": "Administrative Central Block, 2nd Floor, Room A-202",
+    "dutyHours": "09:30 AM – 05:30 PM",
+    "phone": "+91 99887 76655",
+    "emergencyContact": {
+      "name": "Registrar Secretariat",
+      "relation": "Institutional Administrative Council",
+      "phone": "+91 99887 11000"
+    }
+  },
+  {
+    "id": "usr-maint-01",
+    "email": "maintenance@hostelhub.demo",
+    "password": "maint123",
+    "name": "Rajesh Sharma",
+    "role": "maintenance",
+    "avatar": "/avatars/rajesh_sharma.jpg",
+    "staffId": "MNT-CIV-042",
+    "designation": "Senior Facilities Technician & Electrician",
+    "department": "Campus Infrastructure & Rapid Maintenance Squad",
+    "officeLocation": "Workshop Block C, Ground Floor",
+    "dutyHours": "08:30 AM – 06:00 PM (Emergency Rapid Response)",
+    "phone": "+91 98230 45678",
+    "emergencyContact": {
+      "name": "Engineering Helpdesk",
+      "relation": "Central Estate Office",
+      "phone": "+91 80000 44556"
+    }
+  }
+]

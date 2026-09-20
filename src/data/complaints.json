@@ -1,0 +1,98 @@
+[
+  {
+    "id": "MH-1024",
+    "title": "Ceiling Fan Regulator Stuck at Full Speed",
+    "description": "The ceiling fan step regulator knob has come loose and operates only at max speed or turns off abruptly, causing rattling noise at night.",
+    "category": "Fan / AC",
+    "roomNumber": "B-204",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2026-09-18T09:30:00Z",
+    "updatedAt": "2026-09-18T14:15:00Z",
+    "assignedTo": "Ramesh Carpenter & Electrician",
+    "technicianPhone": "+91 98711 22334",
+    "imageUrl": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=500&auto=format&fit=crop&q=80",
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-09-18T09:30:00Z",
+        "note": "Request logged by student Aravind Kumar"
+      },
+      {
+        "status": "Assigned",
+        "timestamp": "2026-09-18T11:00:00Z",
+        "note": "Assigned to Facility Technician Ramesh by Warden Office"
+      },
+      {
+        "status": "In Progress",
+        "timestamp": "2026-09-18T14:15:00Z",
+        "note": "Replacement modular regulator requisitioned from hostel inventory"
+      }
+    ]
+  },
+  {
+    "id": "MH-1019",
+    "title": "Bathroom Washbasin Tap Leaking Slightly",
+    "description": "The hot water valve washer in the attached washroom has a persistent slow drip accumulating water around the mirror basin.",
+    "category": "Plumbing",
+    "roomNumber": "B-204",
+    "priority": "Medium",
+    "status": "Resolved",
+    "createdAt": "2026-09-14T11:20:00Z",
+    "updatedAt": "2026-09-15T16:45:00Z",
+    "assignedTo": "Mahesh Plumber",
+    "technicianPhone": "+91 98722 33445",
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-09-14T11:20:00Z",
+        "note": "Ticket generated"
+      },
+      {
+        "status": "Assigned",
+        "timestamp": "2026-09-14T13:00:00Z",
+        "note": "Mahesh Plumber dispatched"
+      },
+      {
+        "status": "In Progress",
+        "timestamp": "2026-09-15T10:00:00Z",
+        "note": "Replaced brass spindle and seal"
+      },
+      {
+        "status": "Resolved",
+        "timestamp": "2026-09-15T16:45:00Z",
+        "note": "Tested pressure and verified leak-free"
+      }
+    ]
+  },
+  {
+    "id": "MH-1008",
+    "title": "Wi-Fi Access Point Frequent Packet Drops",
+    "description": "Block B 2nd floor corridor access point drops connection every 20 minutes during peak evening study hours.",
+    "category": "Wi-Fi",
+    "roomNumber": "B-204",
+    "priority": "Medium",
+    "status": "Resolved",
+    "createdAt": "2026-09-08T20:10:00Z",
+    "updatedAt": "2026-09-09T12:30:00Z",
+    "assignedTo": "Campus IT Systems",
+    "technicianPhone": "+91 98733 44556",
+    "timeline": [
+      {
+        "status": "Submitted",
+        "timestamp": "2026-09-08T20:10:00Z",
+        "note": "Complaint filed"
+      },
+      {
+        "status": "Assigned",
+        "timestamp": "2026-09-09T09:00:00Z",
+        "note": "IT Helpdesk assigned"
+      },
+      {
+        "status": "Resolved",
+        "timestamp": "2026-09-09T12:30:00Z",
+        "note": "AP firmware updated and channel frequency optimized"
+      }
+    ]
+  }
+]
